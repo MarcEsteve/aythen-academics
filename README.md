@@ -1,4 +1,4 @@
-<img width="120" class="center" alt="AYTHEN logo" src="https://media.licdn.com/dms/image/D4E03AQFDz_GiBo82GQ/profile-displayphoto-shrink_400_400/0/1681741872323?e=1707350400&v=beta&t=Jz746-KCmbCE0CbGGKvraBOLLEcoalsvdWAtFYGnAR8">
+<img width="120" alt="AYTHEN logo" src="https://media.licdn.com/dms/image/D4E03AQFDz_GiBo82GQ/profile-displayphoto-shrink_400_400/0/1681741872323?e=1707350400&v=beta&t=Jz746-KCmbCE0CbGGKvraBOLLEcoalsvdWAtFYGnAR8">
 
 # Aythen Academics
 Repositorio Github de los cursos para Aythen Academics
@@ -12,4 +12,4 @@ Repositorio Github de los cursos para Aythen Academics
 7. ...
 
 >[!IMPORTANT]
-> [Nuestra web AYTHEN] (https://aythen.com/)
+> [Nuestra web AYTHEN](https://aythen.com/)
